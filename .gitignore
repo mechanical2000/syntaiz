@@ -1,0 +1,30 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# ---- Environnements virtuels ----
+venv/
+.env/
+.envrc
+
+# ---- Logs ----
+*.log
+
+# ---- Mac OS ----
+.DS_Store
+
+# ---- IDEs ----
+.vscode/
+.idea/
+
+# ---- Nginx (optionnel, si tu stockes des logs dans ton projet) ----
+nginx_logs/
+
+# ---- Autres fichiers temporaires ----
+*.swp
+*.swo
+*.bak
+*.tmp
